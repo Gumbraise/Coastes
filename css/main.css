@@ -1,0 +1,93 @@
+@font-face {
+    font-family: text;
+    src: url('font/Nemesis.otf');
+}
+.error25 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    font-size: 48px;
+    font-family: text;
+    color: white;
+    text-shadow: #000 0px 0 10px;
+}
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #2B333B;
+}
+.black {
+    background-color: #333;
+    color: #ABAFB3;
+}
+.register {
+    width: 400px;
+    position: absolute;
+    text-align: center;
+}
+.box-shadow {
+    box-shadow: 0px 0px 10px black;
+}
+.center {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+div.finish {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+p.finish {
+    font-family: text;
+    color: white;
+    text-shadow: #000 0px 0 10px;
+    position: relative;
+}
+.finish1 {
+    font-size: 48px;
+}
+.finish2 {
+    font-size: 22px;
+}
+button.coast {
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    margin: 40px;
+}
+div.coast {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    margin: auto;
+    position: absolute;
+    top: 40%; left: 0; bottom: 0; right: 0;
+}
+p.coast {
+    font-family: text;
+    color: white;
+    text-shadow: #000 0px 0 10px;
+    position: relative;
+    font-size: 48px;
+}
+div.buttons {
+    z-index: 499;
+}
